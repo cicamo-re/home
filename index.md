@@ -1,41 +1,22 @@
-article.page {
-    float: left;
-    width: 100%;
-}
-## Welcome to Workshop
+## Technology and Environment Workshop'21, 1st edition 
 
-You can use the [editor on GitHub](https://github.com/isepengineering/TechnologyAndEnvironment21/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The aim of this workshop is to bring together researchers on the broad theme of technology and environment. This workshop aims to provide an opportunity for academics and industrials to meet and discuss their works and ideas on the impact and applications of new technologies on the environment.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Information and communication technologies have changed the fabric of our society, impacting almost every aspect of our lives, and our relationship, understanding and appreciation of the world around us. Recent technological innovations aim at predicting the climate using simulations models and Artificial Intelligence, monitoring agricultural soils via drones, creating atmospheric and sonic pollution maps in cities via crowdsensing, and collecting data at the field level using IoT devices. This workshop aims to explore impact and applications of recent technological innovations on the environment, as well as the perspectives for the years to come.
 
-### Markdown
+### Topics (non-exhaustive)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We encourage the submission of research, work-in-progress and position and vision papers addressing themes related to the environment. Interdisciplinary work is more than welcome. Some technological innovations that can have an impact on the environment are: blockchain cloud and edge computing, visualization Analytics, Machine Learning, Big data, Knowledge Graphs, Semantic Web and Linked Data, and IoT, and they can address topics such as:
 
-```markdown
-Syntax highlighted code block
+-	Environmental crisis and disaster
+-	Health and environment
+-	Environmental governance
+-	Agriculture and water
+-	Energy
+-	Recycling
+-	Climate prediction
+-	Green technology
+-	Lifestyle and sustainability
+-	Pollution monitoring
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isepengineering/TechnologyAndEnvironment21/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**More information soon**
