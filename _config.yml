@@ -1,8 +1,6 @@
 theme: jekyll-theme-minimal
 defaults:
-  # _posts
   - scope:
       path: ""
-      type: posts
     values:
-      author_profile: true
+      author_profile: false
