@@ -37,5 +37,5 @@ Rafael Angarita, Isep Paris
 
 ### Submission link
 
-https://easychair.org/conferences/?conf=techenv21 
+[https://easychair.org/conferences/?conf=techenv21]
 
