@@ -30,10 +30,10 @@ Stephane Cormier, Université de Reims Champagne-Ardennes
 
 ### Important dates
 
-Submission deadline: 15/12/2020
-Notification to authors: 31/12/2020
-Camera-ready submission: 15/01/2021
-Workshop: 26/01/2021
+- Submission deadline: 15/12/2020
+- Notification to authors: 31/12/2020
+- Camera-ready submission: 15/01/2021
+- Workshop: 26/01/2021
 
 ### Submission link
 
