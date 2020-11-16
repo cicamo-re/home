@@ -8,4 +8,34 @@ Information and communication technology has changed the fabric of our society a
 
 We encourage the submission of research, work-in-progress and position and vision papers addressing themes related to the environment. Interdisciplinary work is of high interest. We are looking for inputs relating technologies such as blockchain cloud and edge computing, visualization Analytics, Machine Learning, Big data, Knowledge Graphs, Semantic Web and Linked Data, IoT, address topics such as environmental crisis, disaster management,	health and environment, Environmental governance, Agriculture and water, Energy, Recycling, Climate prediction, Green technology, Lifestyle and sustainability, Pollution monitoring.
 
-**More information soon**
+### Workshop Chairs
+
+Jonathas De Mello, United Nations Environment (UNEP)
+Rafael Angarita, Isep Paris
+
+
+### PC Members
+
+Robert Rodriguez, United Nations Environment (UNEP)
+Didier Salzmann, United Nations Environment (UNEP)
+Raja Chiky, Isep Paris
+Mohamed Sellami, Telecom SudParis
+Maude Manouvrier, Université Paris-Dauphine
+Valérie Issarny, Inria Paris
+Rosanna Verde, Caserta University. Italy
+Farid Meziane, Derby University, UK
+Aliou Boly, UCAD, Senegal 
+Rayane El Sibai, Al Maaref University. Lebanon
+Stephane Cormier, Université de Reims Champagne-Ardennes
+
+### Important dates
+
+Submission deadline: 15/12/2020
+Notification to authors: 31/12/2020
+Camera-ready submission: 15/01/2021
+Workshop: 26/01/2021
+
+### Submission link
+
+https://easychair.org/conferences/?conf=techenv21 
+
