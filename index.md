@@ -16,17 +16,17 @@ Rafael Angarita, Isep Paris
 
 ### PC Members
 
-Robert Rodriguez, United Nations Environment (UNEP)
-Didier Salzmann, United Nations Environment (UNEP)
-Raja Chiky, Isep Paris
-Mohamed Sellami, Telecom SudParis
-Maude Manouvrier, Université Paris-Dauphine
-Valérie Issarny, Inria Paris
-Rosanna Verde, Caserta University. Italy
-Farid Meziane, Derby University, UK
-Aliou Boly, UCAD, Senegal 
-Rayane El Sibai, Al Maaref University. Lebanon
-Stephane Cormier, Université de Reims Champagne-Ardennes
+- Robert Rodriguez, United Nations Environment (UNEP)
+- Didier Salzmann, United Nations Environment (UNEP)
+- Raja Chiky, Isep Paris
+- Mohamed Sellami, Telecom SudParis
+- Maude Manouvrier, Université Paris-Dauphine
+- Valérie Issarny, Inria Paris
+- Rosanna Verde, Caserta University. Italy
+- Farid Meziane, Derby University, UK
+- Aliou Boly, UCAD, Senegal 
+- Rayane El Sibai, Al Maaref University. Lebanon
+- Stephane Cormier, Université de Reims Champagne-Ardennes
 
 ### Important dates
 
