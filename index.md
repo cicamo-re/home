@@ -37,7 +37,7 @@ Rafael Angarita, Isep Paris
 
 ### Submission format
 
-- Template: submisions must me done exclusively in PDF following the RNTI format available at [http://www.editions-rnti.fr/files/RNTI-X-Y2.1.zip](http://www.editions-rnti.fr/files/RNTI-X-Y2.1.zip)
+- Template: submissions must be done exclusively in PDF following the RNTI format available at [http://www.editions-rnti.fr/files/RNTI-X-Y2.1.zip](http://www.editions-rnti.fr/files/RNTI-X-Y2.1.zip)
 - Length: 6 pages maximum for short papers and 12 pages maximum for long papers
 - Languages  English or French
 
