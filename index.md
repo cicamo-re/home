@@ -29,20 +29,20 @@ United Nations Environment Programme (UNEP)
 
 *Session 1 (9h30-10h30):*
 
-- [Optimization and Automation of Multi-Layered Ensemble Learning for Short-Term Forecasting in Agro-Climatology](https://github.com/isepengineering/TechnologyAndEnvironment21/raw/gh-pages/papers/TechEnv21_paper_4.pdf)
+- [Optimization and Automation of Multi-Layered Ensemble Learning for Short-Term Forecasting in Agro-Climatology](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/papers/TechEnv21_paper_4.pdf)  
 Rohit Annad Gupta, Liu Xiaoyang, Jade Eva Guisiano, Raja Chiky, Julien Orensanz, Shohreh Ahvar
-- [Towards the classification of agricultural reports using BERT](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/papers/Fine_tuning_BERT_based_models_for_Plant_Health_Bulletin_Classification.pdf)
+- [Fine-tuning BERT-based models for Plant Health Bulletin Classification](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/papers/Fine_tuning_BERT_based_models_for_Plant_Health_Bulletin_Classification.pdf)  
 Shufan Jiang, Rafael Angarita, Stéphane Cormier, Francis Rousseaux
 
 *Coffee break (10h30-11h00)*
 
 *Session 2 (11h00-12h30):*
 
-- [Supervised classification of curves via a combined use of functional data analysis and random forest](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/papers/TechEnv21_paper_1.pdf)
+- [Supervised classification of curves via a combined use of functional data analysis and random forest](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/papers/TechEnv21_paper_1.pdf)  
 Fabrizio Maturo and Rosanna Verde
-- [Automatic classification of multilabel texts related to Sustainable Development Goals (SDGs)](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/papers/TechEnv21_paper_3.pdf)
+- [Automatic classification of multilabel texts related to Sustainable Development Goals (SDGs)](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/papers/TechEnv21_paper_3.pdf)  
 Jade Guisiano and Raja Chiky
-- [Functional data analysis approach for identifying redundancy in air quality monitoring stations amid Covid-19](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/papers/TechEnv21_paper_2.pdf)
+- [Functional data analysis approach for identifying redundancy in air quality monitoring stations amid Covid-19](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/papers/TechEnv21_paper_2.pdf)  
 Annalina Sarra, Adelia Evangelista, Tonio Di Battista and Sergio Palermi
 
 
