@@ -34,7 +34,7 @@ Rohit Annad Gupta, Liu Xiaoyang, Jade Eva Guisiano, Raja Chiky, Julien Orensanz,
 - Towards the classification of agricultural reports using BERT
 Shufan Jiang, Rafael Angarita, Stéphane Cormier, Francis Rousseaux
 
-*Coffee break (11h-11h30)*
+*Coffee break (10h30-11h00)*
 
 *Session 2 (11h00-12h30):*
 
