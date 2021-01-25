@@ -10,8 +10,41 @@ We encourage the submission of research, work-in-progress and position and visio
 
 ### Workshop Chairs
 
-Jonathas De Mello, United Nations Environment (UNEP)
-Rafael Angarita, Isep Paris
+- Jonathas De Mello, United Nations Environment (UNEP)
+- Rafael Angarita, Isep Paris, [https://rafaelangarita.github.io](https://rafaelangarita.github.io/)
+
+### Workshop program:
+The workshop will take place remotely via the EGC server:
+https://visio.egc2021.lirmm.fr/b/flo-pzs-qoc-ypt 
+ 
+*Keynote (9h):*
+
+New technologies, when designed and implemented considering global challenges and current realities, can be of great value to provide alternatives to mitigate the climate crisis we are all facing. This keynote will present a comprehensive overview of the intersections among technology and the environment, as well as a global contextualization of current and forthcoming challenges.
+
+Speaker: 
+
+David Jensen
+Head of the Environmental Peacebuilding Programme  United Nations Environment Programme (UNEP)
+[https://www.unenvironment.org/people/david-jensen](https://www.unenvironment.org/people/david-jensen)
+
+*Session 1 (9h30-10h30):*
+
+- Optimization and Automation of MLEL on Spark for short-term forecasting in agro-climatology
+Rohit Annad Gupta, Liu Xiaoyang, Jade Eva Guisiano, Raja Chiky, Julien Orensanz, Shohreh Ahvar
+- Towards the classification of agricultural reports using BERT
+Shufan Jiang, Rafael Angarita, Stéphane Cormier, Francis Rousseaux
+
+*Coffee break (11h-11h30)*
+
+*Session 2 (11h00-12h30):*
+
+- Supervised classification of curves via a combined use of functional data analysis and random forest
+Fabrizio Maturo and Rosanna Verde
+- Multi-label Text Classification related to the Sustainable Development Objectives
+Jade Guisiano and Raja Chiky
+- Functional data analysis approach for identifying redundancy in air quality monitoring stations amid Covid-19
+Annalina Sarra, Adelia Evangelista, Tonio Di Battista and Sergio Palermi
+
 
 
 ### PC Members
