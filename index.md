@@ -24,7 +24,7 @@ New technologies, when designed and implemented considering global challenges an
 Speaker: 
 
 David Jensen
-Head of the Environmental Peacebuilding Programme  United Nations Environment Programme (UNEP)
+United Nations Environment Programme (UNEP)
 [https://www.unenvironment.org/people/david-jensen](https://www.unenvironment.org/people/david-jensen)
 
 *Session 1 (9h30-10h30):*
