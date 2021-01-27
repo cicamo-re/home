@@ -27,11 +27,14 @@ David Jensen
 United Nations Environment Programme (UNEP)
 [https://www.unenvironment.org/people/david-jensen](https://www.unenvironment.org/people/david-jensen)
 
+Check out the slides of the keynote [here!](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/presentations/Digital%20transformation%20presentation.pdf)
+
 *Session 1 (9h30-10h30):*
 
 - [Optimization and Automation of Multi-Layered Ensemble Learning for Short-Term Forecasting in Agro-Climatology](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/papers/TechEnv21_paper_4.pdf)  
 Rohit Annad Gupta, Liu Xiaoyang, Jade Eva Guisiano, Raja Chiky, Julien Orensanz, Shohreh Ahvar
 - [Fine-tuning BERT-based models for Plant Health Bulletin Classification](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/papers/Fine_tuning_BERT_based_models_for_Plant_Health_Bulletin_Classification.pdf)  
+[Slides](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/presentations/Fine-tuning%20BERT-based%20models%20for%20Plant%20Health%20Bulletin%20Classification.pdf)  
 Shufan Jiang, Rafael Angarita, Stéphane Cormier, Francis Rousseaux
 
 *Coffee break (10h30-11h00)*
@@ -39,7 +42,8 @@ Shufan Jiang, Rafael Angarita, Stéphane Cormier, Francis Rousseaux
 *Session 2 (11h00-12h30):*
 
 - [Supervised classification of curves via a combined use of functional data analysis and random forest](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/papers/TechEnv21_paper_1.pdf)  
-Fabrizio Maturo and Rosanna Verde
+Fabrizio Maturo and Rosanna Verde  
+[Slides](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/presentations/Fabrizio%20Maturo's%20Talk.pdf)  
 - [Automatic classification of multilabel texts related to Sustainable Development Goals (SDGs)](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/papers/TechEnv21_paper_3.pdf)  
 Jade Guisiano and Raja Chiky
 - [Functional data analysis approach for identifying redundancy in air quality monitoring stations amid Covid-19](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/papers/TechEnv21_paper_2.pdf)  
