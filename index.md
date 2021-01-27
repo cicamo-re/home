@@ -42,8 +42,8 @@ Shufan Jiang, Rafael Angarita, Stéphane Cormier, Francis Rousseaux
 *Session 2 (11h00-12h30):*
 
 - [Supervised classification of curves via a combined use of functional data analysis and random forest](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/papers/TechEnv21_paper_1.pdf)  
-Fabrizio Maturo and Rosanna Verde  
 [Slides](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/presentations/Fabrizio%20Maturo's%20Talk.pdf)  
+Fabrizio Maturo and Rosanna Verde  
 - [Automatic classification of multilabel texts related to Sustainable Development Goals (SDGs)](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/papers/TechEnv21_paper_3.pdf)  
 Jade Guisiano and Raja Chiky
 - [Functional data analysis approach for identifying redundancy in air quality monitoring stations amid Covid-19](https://github.com/isepengineering/TechnologyAndEnvironment21/blob/gh-pages/papers/TechEnv21_paper_2.pdf)  
